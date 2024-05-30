@@ -394,8 +394,15 @@
             "OpUsdtPriceFeed": "0xaE4096C2fBD6bbb90a7Cc70e15B55954940940ab",
             "WitnetPriceFeedBypass": "0xe04408124498F5812Ad341Df6038f11f18dC538e"
         },
+        "optimism.sepolia": {
+            "EthUsdPriceFeed": "0x4FeD58b567E346Eabc1382F3C8ee3778967852f0",
+            "OpUsdtPriceFeed": "0xFA47B60b10532908f371Cd793f186022079c246D",
+            "WitnetPriceFeedBypass": "0x7Cecfb22CD939decC99Df8BcaCdeD171cDA8dc44"
+        },
         "optimism.mainnet": {
-            "OpUsdtPriceFeed": ""
+            "OpUsdtPriceFeed": "0x078c4776B8CA220aD50AdcFc13c69df0aF25f0d8",
+            "WitnetPriceFeeds": "0x1111AbA2164AcdC6D291b08DfB374280035E1111",
+            "WitnetPriceFeedBypass": "0xc45c93083F7B97Cdb700D4D2ADE6a727E04793ff"
         }
     },
     "polygon": {
